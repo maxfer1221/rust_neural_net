@@ -1,0 +1,12 @@
+/home/maximo/Documents/rust_nn/target/debug/deps/bytemuck-8157f0a07b82ab07.rmeta: /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/lib.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/zeroable.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/pod.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/contiguous.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/offset_of.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/transparent.rs
+
+/home/maximo/Documents/rust_nn/target/debug/deps/libbytemuck-8157f0a07b82ab07.rlib: /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/lib.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/zeroable.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/pod.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/contiguous.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/offset_of.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/transparent.rs
+
+/home/maximo/Documents/rust_nn/target/debug/deps/bytemuck-8157f0a07b82ab07.d: /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/lib.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/zeroable.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/pod.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/contiguous.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/offset_of.rs /home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/transparent.rs
+
+/home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/lib.rs:
+/home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/zeroable.rs:
+/home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/pod.rs:
+/home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/contiguous.rs:
+/home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/offset_of.rs:
+/home/maximo/.cargo/registry/src/github.com-1ecc6299db9ec823/bytemuck-1.7.2/src/transparent.rs:
